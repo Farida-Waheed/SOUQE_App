@@ -1,0 +1,149 @@
+name: souqe
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.17.3
+  google_sign_in: ^6.3.0 
+  cloud_firestore: ^4.17.5
+  firebase_analytics: ^10.8.0
+  pin_code_fields: ^8.0.0
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5 
+  awesome_dialog: ^3.1.0
+  flutter_launcher_icons: ^0.14.3
+  geolocator: ^12.0.0
+  geocoding: ^3.0.0
+  intl: ^0.20.2
+  location: ^7.0.0
+  google_maps_flutter: ^2.12.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "B40404"
+# The following section is specific to Flutter packages.
+flutter:
+  assets:
+    - assets/images/apple.png
+    - assets/images/logo.png
+    - assets/images/bagPhoto.png
+    - assets/images/bagPhoto2.png
+    - assets/images/back.png
+    - assets/images/banana.png
+    - assets/images/beef.png
+    - assets/images/chicken.png
+    - assets/images/banner1.png
+    - assets/images/pulses.png
+    - assets/images/rice.png
+    - assets/images/pepper.png
+    - assets/images/logo2.png
+    - assets/images/ginger.png
+    - assets/images/oil.png
+    - assets/images/egg.png
+    - assets/images/mastercard.png
+    - assets/images/order_success.png
+    - assets/images/order_failed.png
+    - assets/images/delivery_bike.png
+    - assets/fonts/
+    - assets/icon/icon.png
+    - assets/icon/account.png
+    - assets/images/beverages.png
+    - assets/images/milk.png
+    - assets/images/bakery.png
+    - assets/images/fruits.png
+    - assets/images/carrots.png
+    - assets/images/shrimp.png
+    - assets/images/bread.png
+    - assets/images/chocolate_bar.png 
+    - assets/images/detergent.png 
+    - assets/images/crispy_chips.png
+    - assets/images/diapers.png
+    - assets/images/feta_cheese.png
+    - assets/images/frozen_pizza.png
+    - assets/images/greek_yogurt.png
+    - assets/images/ketchup.png
+    - assets/images/dogs.png
+    - assets/images/carrots.png
+    - assets/images/tea.png
+    - assets/images/juice.png
+    - assets/images/pasta.png
+    - assets/images/salmon_fillet.png
+    - assets/images/salt.png
+    - assets/images/shampoo.png
+    - assets/images/shrimp.png
+    - assets/images/toothpaste.png
+    - assets/images/basmati_rice.png
+    - assets/images/blueberry_muffin.png
+    - assets/images/butter_croissant.png
+    - assets/images/care.png
+    - assets/images/child_care.png
+    - assets/images/french_baguette.png
+    - assets/images/frozen_foods.png
+    - assets/images/green_peas.png
+    - assets/images/household.png
+    - assets/images/pantry.png
+    - assets/images/snacks.png
+    - assets/images/spaghetti_pasta.png
+    - assets/images/wheat_bread.png
+    - assets/images/spices.png
+    - assets/images/spinach.png
+    - assets/images/pet_supplies.png
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Montserrat-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter_18pt-Regular.ttf
+        - asset: assets/fonts/Inter_18pt-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter_18pt-Regular.ttf
+        - asset: assets/fonts/Inter_18pt-Medium.ttf
+          weight: 500  
+
+
+  uses-material-design: true
