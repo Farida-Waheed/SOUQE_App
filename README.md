@@ -9,7 +9,7 @@ An intelligent mobile application built with Flutter & Firebase to enhance the g
 
 * **University:** Benha University, Faculty of Engineering (Shoubra)  
 * **Department:** Communications and Computer Engineering  
-* **Course:** Computer Organization  
+* **Course:** Mobile Computing 
 
 ---
 
