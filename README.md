@@ -5,6 +5,23 @@ An intelligent mobile application built with Flutter & Firebase to enhance the g
 
 ---
 
+## 🏫 Project Information
+
+* **University:** Benha University, Faculty of Engineering (Shoubra)  
+* **Department:** Communications and Computer Engineering  
+* **Course:** Computer Organization  
+
+---
+
+## 🧑‍💻 Team Members
+
+* **Farida Waheed Abdelbary**
+* **Nourhan Farag Mohamed**
+* **Malak Mounir Abdellatef**
+* **Nour Hesham El Sayed**
+
+---
+
 ## 📖 Overview
 
 SOUQÉ is designed to streamline your grocery shopping while keeping your health and preferences in mind. Whether you have specific allergies, favorite brands, or want to track your order in real time, SOUQÉ provides a smart and simple solution—all from your smartphone.
@@ -78,11 +95,7 @@ This app was created as part of a university graduation project by a dedicated t
 
 | Home Screen           | Product Detail           | Explore Screen          | Map Tracking         |
 | --------------------- | ------------------------ | ------------------------ | -------------------- |
-| ![homeScreen](https://github.com/user-attachments/assets/5fc89c03-8798-404d-9b81-e66a944ebf99)
- | ![productDetails](https://github.com/user-attachments/assets/a18c5d6f-7ca8-4c54-9ed5-1d4bcc4979c2)
- | ![explore](https://github.com/user-attachments/assets/ae288ca9-ee28-4a4b-83ac-878da1f5d5a3)
- |![trackOrder](https://github.com/user-attachments/assets/e89c60ba-9e2c-4b66-84eb-51d650cc4896)
-|
+|![homeScreen](https://github.com/user-attachments/assets/5fc89c03-8798-404d-9b81-e66a944ebf99)|![productDetails](https://github.com/user-attachments/assets/a18c5d6f-7ca8-4c54-9ed5-1d4bcc4979c2)|![explore](https://github.com/user-attachments/assets/ae288ca9-ee28-4a4b-83ac-878da1f5d5a3)|![trackOrder](https://github.com/user-attachments/assets/e89c60ba-9e2c-4b66-84eb-51d650cc4896)|
 
 ---
 
@@ -139,14 +152,6 @@ flutter pub get
 
 ---
 
-## 🧑‍💻 Team Members
-
-* **Farida Waheed Abdelbary**
-* **Nourhan Farag Mohamed**
-* **Malak Mounir Abdellatef**
-* **Nour Hesham El Sayed**
-
----
 
 ## 🧩 Future Improvements
 
